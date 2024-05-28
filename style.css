@@ -1,0 +1,24 @@
+.rounded{
+    margin-right: 10px;
+    
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+
+.nav-item .nav-link{
+    transition: 0.2s;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 10px;
+
+    vertical-align: bottom;
+}
+.btn{
+    font-family: "Poppins", sans-serif;   
+}
